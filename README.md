@@ -1,6 +1,6 @@
-# NOTHING Canary
+# Nothing Canary
 
-Official legal documents for NOTHING Canary.
+Official legal documents for Nothing Canary.
 
 ## Documents
 
